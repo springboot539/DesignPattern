@@ -1,0 +1,8 @@
+package com.example.designpattern.BuilderPattern.FactoryPattern.abstract_factory;
+
+public class MatchaMousse extends Dessert{
+    @Override
+    public void show() {
+        System.out.println("甜品MatchaMousse");
+    }
+}
